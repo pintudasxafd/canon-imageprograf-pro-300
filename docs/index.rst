@@ -8,7 +8,6 @@ How to Download Canon imageprograf pro 300 Driver?
 The Canon imagePROGRAF PRO 300 is a highly regarded professional photo printer designed for photographers, graphic artists, and creative professionals who demand exceptional print quality. This printer supports up to 13 inches wide prints, delivers vibrant color accuracy through its 10-color LUCIA PRO ink system, and handles a wide variety of media types. Whether you’re producing gallery-quality photographs, fine art prints, or professional portfolios, the imagePROGRAF PRO 300 stands as a versatile, reliable tool.
 
 .. image:: click-download.png
-
    :alt: My Project Logo
    :width: 400px
    :align: center
